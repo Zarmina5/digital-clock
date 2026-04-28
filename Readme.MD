@@ -23,18 +23,8 @@ It displays the current time and date and updates every second.
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## screen shot 
+![image alt](https://github.com/Zarmina5/digital-clock/blob/9bb16ce8f48a5ced614a8f69739f6fbaca963c54/Screenshot.png.png)
 
 ---
 
